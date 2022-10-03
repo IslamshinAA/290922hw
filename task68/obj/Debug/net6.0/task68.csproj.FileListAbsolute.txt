@@ -1,0 +1,15 @@
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\bin\Debug\net6.0\task68.exe
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\bin\Debug\net6.0\task68.deps.json
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\bin\Debug\net6.0\task68.dll
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\bin\Debug\net6.0\task68.pdb
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.dll
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\refint\task68.dll
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.pdb
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+F:\учеба ИТ\введение в языки программирования C#\290922Hw\task68\obj\Debug\net6.0\ref\task68.dll
